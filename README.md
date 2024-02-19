@@ -1,2 +1,6 @@
 # Exercises-Learning
-Projects I did while I was l;erning to code
+Pl:
+Propjekty które napisałem podczas nauki języka: 'Python'.
+
+Eng: 
+Projects I did while I was learning to code in: 'Python'.
