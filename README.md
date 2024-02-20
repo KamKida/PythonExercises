@@ -1,4 +1,4 @@
-# PtythonExercises
+# Ptython Exercises
 Pl:
 Projekty które napisałem podczas nauki języka programowania: 'Python'.
 
